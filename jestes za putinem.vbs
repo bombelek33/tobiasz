@@ -1,0 +1,7 @@
+msgbox "siema"
+msgbox "jesteś"
+msgbox "za"
+msgbox "Putinem?"
+msgbox "bo"
+msgbox "ja"
+msgbox "tak"
